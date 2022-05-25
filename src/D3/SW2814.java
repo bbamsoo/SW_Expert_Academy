@@ -1,7 +1,7 @@
 package D3;
 import java.util.*;
 
-public class Solution {
+public class SW2814 {
 
     static int [][]map;
     static int N,M;
